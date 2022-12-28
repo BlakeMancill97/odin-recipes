@@ -1,5 +1,21 @@
 body {
-    background-color: #ff9966;
+    background-color: #D4F1F4;
     color: black;
     font-family: sans-serif;
+}
+
+.heading-one {
+    background-color: #05445E;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    margin: -1rem -1rem -1rem -1rem;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: auto;
 }
